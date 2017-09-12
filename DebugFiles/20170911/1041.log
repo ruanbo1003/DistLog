@@ -1,0 +1,4 @@
+server node 0 listen on 127.0.0.1:20480
+server node 1 listen on 127.0.0.1:20481
+node[0] get login req from node[1]node[1] get login rsp from node[0]node[1] anster vote to node[0] (1,-1)node[0] become the leadernode[1] know leader[0] is down.server node 2 listen on 127.0.0.1:20482
+node[1] get login req from node[2]node[2] get login rsp from node[1]node[2] anster vote to node[1] (1,-1)node[1] become the leader

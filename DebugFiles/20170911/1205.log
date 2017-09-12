@@ -1,0 +1,1 @@
+node[0] know leader[1] is down.node[2] know leader[1] is down.node[0] send propose to node[2]node[2] anster vote to node[0] (1,-1)node[0] become the leader

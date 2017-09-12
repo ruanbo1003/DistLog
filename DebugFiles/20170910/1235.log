@@ -1,0 +1,2 @@
+server node 0 listen on 127.0.0.1:20480
+node[0] propose a vote but less node num[1]

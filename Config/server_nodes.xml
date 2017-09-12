@@ -1,0 +1,9 @@
+<?xml version="1.0"?>  
+<root>
+	<node id="0" ip="127.0.0.1" port="20480" >
+	</node>
+	<node id="1" ip="127.0.0.1" port="20481" >
+	</node>
+	<node id="2" ip="127.0.0.1" port="20482" >
+	</node>
+</root>
